@@ -20,7 +20,7 @@ The following project is interested in studying the changes in Netflix’s conte
 *  Find answers to key questions and trends around Netflix’s investment into various kinds of media content.
 
 # **<span id="Data-Sources" style="color:#023e8a;">Data Sources</span>**
----
+
 
 Our dataset was captured using a combination of tools and methods; scraping, API calls, and manual validation. Using these techniques, the author of the original dataset, Shivam Bansal, was able to capture information on a myriad of topics, namely on Netflix shows, movie titles, directors, casts, countries, release dates, ratings, and more. In total, our dataset has `12` columns and `8807` rows.
 
