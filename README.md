@@ -1,4 +1,4 @@
-https://upload.wikimedia.org/wikipedia/commons/7/7a/Logonetflix.png
+![Logonetflix](https://user-images.githubusercontent.com/13074725/206051218-b154735e-768e-4273-8d5a-69201dbd7df4.png)
 
 
 # **<span style="color:#023e8a;font-size:200%"><center>Analysis of Netflix Content Library</center></span>**
