@@ -1,3 +1,6 @@
+https://upload.wikimedia.org/wikipedia/commons/7/7a/Logonetflix.png
+
+
 # **<span style="color:#023e8a;font-size:200%"><center>Analysis of Netflix Content Library</center></span>**
 
 ## <center>By: Bhagirath Bhardwaj, Jinisha Kande, Paulin Jesintha Mariadoss, Renata Halim, Sohil Jain, and Sonal Kaur</center>
